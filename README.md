@@ -1,4 +1,4 @@
-# ⚡ Coding Problems
+#  Coding Problems
 
 > **Think. Code. Debug. Repeat.**
 

@@ -16,7 +16,7 @@ This repository is where I practice, experiment, and improve through code.
 🧩 **DSA** — Data structures, algorithms, and core concepts  
 ☕ **Java** — My primary language for DSA practice  
 🐍 **Python** — Programming and problem-solving practice  
-🗄️ **SQL** — Query and database-related problems  
+🗄️ **SQL** — Query and database-related problems
 
 ---
 
